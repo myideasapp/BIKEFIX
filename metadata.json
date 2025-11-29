@@ -1,0 +1,9 @@
+{
+  "description": "On-demand Bike Service App with AI Diagnostics",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "BikeFix AI"
+}
